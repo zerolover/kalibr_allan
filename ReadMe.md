@@ -38,6 +38,8 @@ Accelerometer "random walk" | `accelerometer_random_walk` | <img src="https://la
     * Tango Yellowstone Tablet
     * ASL-ETH VI-Sensor
 
+Tip: Can also use `SCRIPT_allan_txtparallel.m` with `imu.txt` to generate an allan deviation (Without Ros)
+
 ### Example Plot - XSENS MTI-G-700
 ![allan chart acceleration](data/results_20170908T182715_accel.png)
 
